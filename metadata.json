@@ -1,0 +1,7 @@
+{
+  "name": "Chronos AI Scheduler",
+  "description": "A smart productivity companion with AI-driven focus tracking, voice scheduling, and gamified achievements.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
